@@ -1,6 +1,6 @@
 function is_odd(num) {
     if (num %2 ==0)
-        return true;
+        return "Hello Peter";
     else 
-        return false;
+        return "Hello Marry";
 }
